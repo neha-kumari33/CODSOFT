@@ -1,4 +1,4 @@
-import java.util.Scanner;
+57import java.util.Scanner;
 import java.util.Random;
 
 public class NumberGuessingGame {
